@@ -1,25 +1,25 @@
 
-# Project Title
+# Freify - A Music Site
 
-A brief description of what this project does and who it's for
+Freify is a site that allows you to listen to music easily and ad-free.
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/iapheus/freify/blob/main/image/freify.png)
 
 
 ## Features
 
+- Artist Search
+- Album Page
+- Previously listened artists
 - Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
 
 
 ## Demo
 
-Insert gif or link to demo
+https://freify.vercel.app/
 
 
 ## Run Locally
@@ -27,13 +27,13 @@ Insert gif or link to demo
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/iapheus/freify.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd freify
 ```
 
 Install dependencies
@@ -45,7 +45,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
 
